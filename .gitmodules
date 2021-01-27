@@ -4,3 +4,6 @@
 [submodule "engines/snowboy"]
 	path = engines/snowboy
 	url = git@github.com:Kitt-AI/snowboy.git
+[submodule "engines/pocketsphinx-python"]
+	path = engines/pocketsphinx-python
+	url = https://github.com/jalemann/pocketsphinx-python.git
